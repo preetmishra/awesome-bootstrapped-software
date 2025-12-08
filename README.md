@@ -69,6 +69,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## Other
 
 - [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
+- [Picmal](https://picmal.app) - Batch convert and compress your images, videos and audios offline on your Mac.
 
 ## Contributing
 
