@@ -44,7 +44,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## Developer Tools
 
 - [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
-- [Web maker](https://webmaker.app) - The fastest and offline and frontend playground.
+- [Web Maker](https://webmaker.app) - The fastest and offline and frontend playground.
 - [AnyAPI](https://anyapi.online/) - Just make a request to any endpoint & get a response, magically!
 
 ## E-commerce
