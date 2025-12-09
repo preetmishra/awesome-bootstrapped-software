@@ -48,6 +48,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## Developer Tools
 
 - [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
+- [Web Maker](https://webmaker.app) - The fastest and offline and frontend playground.
 
 ## E-commerce
 
@@ -63,6 +64,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 - [Motherboard](https://trymotherboard.com) - Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding, click on any value to track.
 - [LookAway](https://lookaway.com) - LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh.
+- [Scribbble](https://www.scribbble.app/) - Screen annotation app for presenters, content creators and online educators.
 
 ## Project Management
 
