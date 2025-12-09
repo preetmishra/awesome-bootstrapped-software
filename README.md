@@ -65,6 +65,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Motherboard](https://trymotherboard.com) - Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding, click on any value to track.
 - [LookAway](https://lookaway.com) - LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh.
 - [Scribbble](https://www.scribbble.app/) - Screen annotation app for presenters, content creators and online educators.
+- [TextSniper](https://textsniper.app/) - TextSniper extracts text from images, videos, PDFs and anything on your screen. Copy text where copying isn't allowed. Scan QR codes instantly.
 
 ## Project Management
 
