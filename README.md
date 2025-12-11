@@ -24,6 +24,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
   - [Project Management](#project-management)
   - [Sales](#sales)
   - [SEO](#seo)
+  - [Utilities](#utilities)
   - [Other](#other)
   - [Contributing](#contributing)
   - [License](#license)
@@ -72,6 +73,12 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## Sales
 
 ## SEO
+
+## Utilities
+
+- [Presentify](https://presentifyapp.com) - Annotate Screen. Highlight, Spotlight, and Zoom Cursor.
+- [FaceScreen](https://facescreenapp.com) - Show your face and brand on top of everything else.
+- [KeyScreen](https://keyscreenapp.com) - Show key presses on your screen.
 
 ## Other
 
