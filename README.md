@@ -50,6 +50,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 - [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
 - [Web Maker](https://webmaker.app) - The fastest and offline and frontend playground.
+- [Rocketship](https://github.com/rocketship-ai/rocketship) - A QA testing framework for your coding agent.
 
 ## E-commerce
 
