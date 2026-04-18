@@ -77,6 +77,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Utilities
 
+- [Snaplert](https://snaplert.com) - Monitor any webpage for changes and get email alerts with before/after pixel diffs and AI summaries. Element-level zone picker. Free during open beta.
 - [Presentify](https://presentifyapp.com) - Annotate Screen. Highlight, Spotlight, and Zoom Cursor.
 - [FaceScreen](https://facescreenapp.com) - Show your face and brand on top of everything else.
 - [KeyScreen](https://keyscreenapp.com) - Show key presses on your screen.
