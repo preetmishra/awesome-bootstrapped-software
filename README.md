@@ -80,6 +80,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Presentify](https://presentifyapp.com) - Annotate Screen. Highlight, Spotlight, and Zoom Cursor.
 - [FaceScreen](https://facescreenapp.com) - Show your face and brand on top of everything else.
 - [KeyScreen](https://keyscreenapp.com) - Show key presses on your screen.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based collection of single-purpose web utilities (favicon generator, OG image generator, AI background remover that runs locally, color palette generator, SEO meta tag generator, AI cost calculator). No signup, no uploads.
 
 ## Other
 
