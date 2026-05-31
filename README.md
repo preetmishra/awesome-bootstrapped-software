@@ -59,6 +59,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## HR & People Ops
 
 ## Marketing
+- [JustBlogged](https://justblogged.com) - No-setup blogging platform. Start your blog in 2 minutes. Free plan available, $9/mo for Pro with custom domains and built-in SEO.
 
 - [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent conversations and automates outreach.
 
