@@ -56,6 +56,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Finance & Accounting
 
+- [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
+
 ## HR & People Ops
 
 ## Marketing
