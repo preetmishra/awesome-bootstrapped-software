@@ -78,6 +78,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## SEO
 
+- [SellerMind](https://thesellermind.com) - Indie-built Etsy SEO research tool with keyword volume, competitor analysis, listing optimizer, and an AI-assisted listing rewriter. One Pro plan at $19.99/mo or $199/yr.
+
 ## Utilities
 
 - [Presentify](https://presentifyapp.com) - Annotate Screen. Highlight, Spotlight, and Zoom Cursor.
