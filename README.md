@@ -56,6 +56,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Finance & Accounting
 
+- [Netkiln](https://netkiln.com) - Paste a payouts CSV; get a public client-ready revenue-health page for freelancers and agencies. Free draft; $19 clean unlock.
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
 
 ## HR & People Ops
