@@ -62,6 +62,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## HR & People Ops
 
 ## Marketing
+- [Does My Text Sound AI?](https://1h-money-store.vercel.app/sounds-ai) - Free browser-based grader that scores landing page and marketing copy 0-100 for AI-writing style tells. Runs client-side, no signup.
+
 - [JustBlogged](https://justblogged.com) - No-setup blogging platform. Start your blog in 2 minutes. Free plan available, $9/mo for Pro with custom domains and built-in SEO.
 
 - [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent conversations and automates outreach.
