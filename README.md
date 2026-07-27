@@ -66,6 +66,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 - [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent conversations and automates outreach.
 
+- [SocialClaw](https://getsocialclaw.com) - Schedule and publish social posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress via dashboard, API, CLI, or MCP. Free tier available.
+
 ## Productivity
 
 - [Motherboard](https://trymotherboard.com) - Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding, click on any value to track.
