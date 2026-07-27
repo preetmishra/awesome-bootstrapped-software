@@ -90,8 +90,9 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Other
 
-- [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
+- [Mydentify](https://mydentify.com) - Intent-first product discovery with permanent listings, weekly leaderboards, researched launch resources, and a free tier.
 - [Picmal](https://picmal.app) - Batch convert and compress your images, videos and audios offline on your Mac.
+- [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
 
 ## Contributing
 
