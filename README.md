@@ -55,6 +55,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## E-commerce
 
+- [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products with just Stripe and GitHub: static storefront, checkout via Stripe Payment Links, delivery via private repo invites. MIT engine, $0/month, 0% platform fee.
+
 ## Finance & Accounting
 
 - [Netkiln](https://netkiln.com) - Paste a payouts CSV; get a public client-ready revenue-health page for freelancers and agencies. Free draft; $19 clean unlock.
