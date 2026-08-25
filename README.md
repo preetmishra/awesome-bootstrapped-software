@@ -61,6 +61,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 - [Netkiln](https://netkiln.com) - Paste a payouts CSV; get a public client-ready revenue-health page for freelancers and agencies. Free draft; $19 clean unlock.
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-bootstrapped-v1) for white-label PDFs, batch CLI, and templates.
 
 ## HR & People Ops
 
