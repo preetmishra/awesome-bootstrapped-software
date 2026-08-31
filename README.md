@@ -46,6 +46,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Design
 
+- [Ibis](https://cartonpliant.github.io/ibis/) - Compose a one-page commercial offer in the browser. Free with watermark; Pro 9€ for clean print, Markdown, and five layouts.
+
 ## Developer Tools
 
 - [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
