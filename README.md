@@ -56,6 +56,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## E-commerce
 
 - [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products with just Stripe and GitHub: static storefront, checkout via Stripe Payment Links, delivery via private repo invites. MIT engine, $0/month, 0% platform fee.
+- [Naratake](https://naratake.com/en) - Website builder for restaurants, salons and trades that publishes a real Next.js site, with online ordering and bookings at 0% commission through your own Stripe. Free to build and preview; paid plans from $49/month.
 
 ## Finance & Accounting
 
