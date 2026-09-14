@@ -81,6 +81,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Project Management
 
+- [Retainer OS — Starter](https://eliteseo6.gumroad.com/l/ewvwy) - Notion template for solo and small SEO agencies to track client deliverables and retainer work in one board.
+
 ## Sales
 
 ## SEO
