@@ -59,6 +59,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Finance & Accounting
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only invoice, quote, rate, payment-reminder, SOW, and proposal generators for freelancers (no signup). Optional $1/$5 bilingual WhatsApp close pack.
 - [Netkiln](https://netkiln.com) - Paste a payouts CSV; get a public client-ready revenue-health page for freelancers and agencies. Free draft; $19 clean unlock.
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
 
