@@ -46,6 +46,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Design
 
+- [Tesla Wrap Generator](https://teslawrapgenerator.com/) - AI generator for custom Tesla Paint Shop wraps, with 3D preview and Paint Shop-ready PNG export.
+
 ## Developer Tools
 
 - [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
