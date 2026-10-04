@@ -78,6 +78,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [LookAway](https://lookaway.com) - LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh.
 - [Scribbble](https://www.scribbble.app/) - Screen annotation app for presenters, content creators and online educators.
 - [TextSniper](https://textsniper.app/) - TextSniper extracts text from images, videos, PDFs and anything on your screen. Copy text where copying isn't allowed. Scan QR codes instantly.
+- [AI eBook Pro](https://aiebookpro.com) - Turn a one-sentence idea into a complete eBook with chapters, a cover and PDF, EPUB and DOCX files.
 
 ## Project Management
 
