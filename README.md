@@ -83,6 +83,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Sales
 
+- [Dialbrew](https://dialbrew.com) - Operations platform for SDR and appointment-setting agencies: per-client lead lists, browser calling, bookings, client portal and commission tracking. Per-seat pricing from €39/month.
+
 ## SEO
 
 - [SellerMind](https://thesellermind.com) - Indie-built Etsy SEO research tool with keyword volume, competitor analysis, listing optimizer, and an AI-assisted listing rewriter. One Pro plan at $19.99/mo or $199/yr.
