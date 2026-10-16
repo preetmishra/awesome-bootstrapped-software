@@ -58,6 +58,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
 - [Web Maker](https://webmaker.app) - The fastest and offline and frontend playground.
 - [Rocketship](https://github.com/rocketship-ai/rocketship) - A QA testing framework for your coding agent.
+- [Telemetry Tracker](https://telemetry-tracker.com) - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts. Free hosted plan available.
 - [llm-tokencheck](https://github.com/ilan-lachkar/llm-tokencheck) - Free CLI that estimates LLM API tokens + USD cost across Anthropic, OpenAI and Google models before you send the request. Optional $9 one-time Pro license for batch folder processing + CSV export.
 - [CodeOtter](https://codeotter.io) - Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates and posts inline fixes, using local GGUF models or your own API key. Free to self-host.
 
