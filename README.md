@@ -68,6 +68,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Finance & Accounting
 
+- [Fakturcho](https://www.fakturcho.com/en) - EU-compliant invoicing for companies and sole traders, with VAT by country and national e-invoice XML. €0.10 per document; first 10 free.
 - [Netkiln](https://netkiln.com) - Paste a payouts CSV; get a public client-ready revenue-health page for freelancers and agencies. Free draft; $19 clean unlock.
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
 
