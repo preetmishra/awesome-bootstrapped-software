@@ -114,6 +114,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Picmal](https://picmal.app) - Batch convert and compress your images, videos and audios offline on your Mac.
 - [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing. 2,000 free credits at signup, plans from $25/month.
+- [MEDIAPRONET](https://mediapronet.com) - Hand-reviewed launch directory where makers list a newly launched startup or SaaS product and get its own listing page. Free listing (account plus a badge on your homepage); one-time paid listing from $19.
 - [FieldServiceScout](https://www.fieldservicescout.com) - Free vendor-neutral field-service software comparisons for trade shops (Jobber, Housecall Pro, ServiceTitan peers).
 
 ## Contributing
