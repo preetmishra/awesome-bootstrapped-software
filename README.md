@@ -34,6 +34,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## API
 - [Brand.dev](https://brand.dev) - API to personalize your product with logos, colors, and company info from any domain.
+- [CurlShot](https://curlshot.com) - Screenshot API that turns any URL, HTML, or Markdown into PNG, JPEG, WebP, PDF, or scrolling video, with a hosted MCP server for AI agents. Free plan; paid from $19/mo.
 
 ## Business Intelligence
 
