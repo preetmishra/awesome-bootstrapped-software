@@ -101,6 +101,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## SEO
 
 - [SellerMind](https://thesellermind.com) - Indie-built Etsy SEO research tool with keyword volume, competitor analysis, listing optimizer, and an AI-assisted listing rewriter. One Pro plan at $19.99/mo or $199/yr.
+- [BacklinkGenie](https://backlinkgenie.com) - Bootstrapped AI outreach agent for link building: finds blog posts where your product fits, writes a pitch per post for you to approve and sends it from a separate managed mailbox. Free prospect report; plans from $99/mo.
 
 ## Utilities
 
