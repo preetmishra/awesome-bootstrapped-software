@@ -61,6 +61,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [llm-tokencheck](https://github.com/ilan-lachkar/llm-tokencheck) - Free CLI that estimates LLM API tokens + USD cost across Anthropic, OpenAI and Google models before you send the request. Optional $9 one-time Pro license for batch folder processing + CSV export.
 - [CodeOtter](https://codeotter.io) - Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates and posts inline fixes, using local GGUF models or your own API key. Free to self-host.
 - [YYLO](https://yylo.dev) - Free and open-source command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes. MIT licensed; runs locally on your machine.
+- [SolidPing](https://www.solidping.io) - Open-source uptime and synthetic monitoring with status pages and alerting, hosted with a free tier or self-hosted as a single Go binary.
 
 ## E-commerce
 
