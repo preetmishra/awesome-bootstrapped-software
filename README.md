@@ -50,6 +50,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## Customer Support
 
 - [Helploom](https://helploom.com) - Unlimited customer support at a fixed price. Live chat, help center and optionally an AI agent. Free plan available.
+- [Deacon](https://heydeacon.com) - AI support chat that answers your customers from your own docs and asks for their email when it can't. Free plan available.
 
 ## Design
 
