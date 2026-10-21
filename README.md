@@ -83,6 +83,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 - [SocialClaw](https://getsocialclaw.com) - Schedule and publish social posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress via dashboard, API, CLI, or MCP. Free tier available.
 - [Shortshort](https://www.shortshort.io) - Turns one long video (upload or YouTube link) into vertical 9:16 shorts with word-by-word captions. Free plan with 60 credits, paid plans from €12/mo.
+- [Pingroupie](https://pingroupie.com) - Pinterest pin scheduler where you approve every pin before it is published, with a group board directory and keyword ideas. Free plan available, Premium $9.99/mo or $79/year.
 
 ## Productivity
 
