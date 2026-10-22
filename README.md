@@ -31,6 +31,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
   - [License](#license)
 
 ## Analytics
+- [PageLens Analytics](https://pagelens.io) - Cookieless web analytics that also shows which pages AI crawlers read and the visitors and revenue AI assistants send.
 
 ## API
 - [Brand.dev](https://brand.dev) - API to personalize your product with logos, colors, and company info from any domain.
