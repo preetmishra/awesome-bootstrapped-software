@@ -91,6 +91,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Scribbble](https://www.scribbble.app/) - Screen annotation app for presenters, content creators and online educators.
 - [TextSniper](https://textsniper.app/) - TextSniper extracts text from images, videos, PDFs and anything on your screen. Copy text where copying isn't allowed. Scan QR codes instantly.
 - [tingdo](https://tingdo.app) - GTD task manager built around what's next instead of fake due dates. Tasks sit in lists sorted by situation and get reviewed weekly. Free tier available.
+- [MailMop](https://mailmop.com) - Gmail cleaner that ranks every sender by email count so you can bulk delete, unsubscribe, or block. Runs in your browser. Free tier, Pro is $22.68/year.
 
 ## Project Management
 
