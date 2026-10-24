@@ -53,6 +53,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Design
 
+- [APPLORE](https://applore.app) - App icon inspiration library of 18,000+ real App Store and Google Play icons with every past version archived, plus AI icon tools. Free plan; Pro $9.99/mo.
+
 ## Developer Tools
 
 - [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
