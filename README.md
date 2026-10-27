@@ -86,6 +86,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Shortshort](https://www.shortshort.io) - Turns one long video (upload or YouTube link) into vertical 9:16 shorts with word-by-word captions. Free plan with 60 credits, paid plans from €12/mo.
 - [Pingroupie](https://pingroupie.com) - Pinterest pin scheduler where you approve every pin before it is published, with a group board directory and keyword ideas. Free plan available, Premium $9.99/mo or $79/year.
 - [day3](https://day3.app) - Newsletters and transactional email billed by emails sent, unlimited subscribers, from $1/mo. REST API and MCP server.
+- [Kicklace](https://kicklace.com) - Lifecycle email for SaaS founders: writes your welcome, onboarding and failed-payment emails from your website and sends them when customers act. Free up to 1,000 contacts, Starter $25/mo.
 
 ## Productivity
 
