@@ -39,6 +39,8 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Communication & Collaboration
 
+- [EpicMail](https://epicmail.org/?utm_source=github&utm_medium=referral&utm_campaign=epicmail_github_catalogs_2026&utm_content=awesome_bootstrapped_software) - A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. A valid card is required before connecting accounts; the Adventurer plan remains $0 unless the user upgrades.
+
 ## Compliance
 
 - [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
