@@ -122,7 +122,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing. 2,000 free credits at signup, plans from $25/month.
 - [FieldServiceScout](https://www.fieldservicescout.com) - Free vendor-neutral field-service software comparisons for trade shops (Jobber, Housecall Pro, ServiceTitan peers).
-- [Mira](https://miraforall.com) - Private migraine and headache tracker for iPhone and iPad: log attacks, spot triggers, and export PDF reports for your doctor. Free.
+- [Mira](https://miraforall.com) - A free-forever, private migraine and headache tracker for iPhone and iPad: log attacks, spot triggers, and export PDF and CSV reports for your doctor visits.
 
 ## Contributing
 
@@ -132,4 +132,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the contributors have waived all copyright and related or neighbouring rights to this work.
