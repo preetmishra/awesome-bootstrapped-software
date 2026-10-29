@@ -123,7 +123,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing. 2,000 free credits at signup, plans from $25/month.
 - [FieldServiceScout](https://www.fieldservicescout.com) - Free vendor-neutral field-service software comparisons for trade shops (Jobber, Housecall Pro, ServiceTitan peers).
 - [Mira](https://miraforall.com) - A free-forever, private migraine and headache tracker for iPhone and iPad: log attacks, spot triggers, and export PDF and CSV reports for your doctor visits.
-- [RadarMakers](https://radarmakers.com/?ref=awesome-bootstrapped) - Free launch platform and catalog where indie makers list their products and get ratings and comments from other makers.
+- [RadarMakers](https://radarmakers.com) - Free launch platform and catalog where indie makers list their products and get ratings and comments from other makers.
 
 ## Contributing
 
@@ -134,3 +134,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighbouring rights to this work.
+
