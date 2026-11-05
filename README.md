@@ -77,6 +77,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Netkiln](https://netkiln.com) - Paste a payouts CSV; get a public client-ready revenue-health page for freelancers and agencies. Free draft; $19 clean unlock.
 - [Paperkeep](https://paperkeep.be/en.html) - Browser extension that downloads subscription invoices from billing pages and renames them for your accountant. Free; Pro €39/year.
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investing research that looks for evidence against your thesis before you get confident.
 
 ## HR & People Ops
 
