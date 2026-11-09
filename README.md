@@ -112,6 +112,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## SEO
 
 - [SellerMind](https://thesellermind.com) - Indie-built Etsy SEO research tool with keyword volume, competitor analysis, listing optimizer, and an AI-assisted listing rewriter. One Pro plan at $19.99/mo or $199/yr.
+- [RankAgent](https://www.therankagent.com/) - AI SEO and GEO audit software for SEO agencies and freelancers: full-site crawls, an AI fix suggestion for every issue, an "are you in ChatGPT?" check and white-label client reports. Free plan and 14-day free trial, paid plans from ₹2,083/mo billed yearly.
 
 ## Utilities
 
