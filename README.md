@@ -99,6 +99,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [TextSniper](https://textsniper.app/) - TextSniper extracts text from images, videos, PDFs and anything on your screen. Copy text where copying isn't allowed. Scan QR codes instantly.
 - [tingdo](https://tingdo.app) - GTD task manager built around what's next instead of fake due dates. Tasks sit in lists sorted by situation and get reviewed weekly. Free tier available.
 - [Enhanciar](https://enhanciar.in) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid plans, bring your own AI key.
+- [minulo](https://minulo.app/en/) - Hides Instagram Reels, YouTube Shorts and TikTok For You on iPhone while DMs and normal videos stay; hiding is free (Pro optional).
 
 ## Project Management
 
