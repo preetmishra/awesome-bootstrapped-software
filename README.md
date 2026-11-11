@@ -84,6 +84,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [tingdo](https://tingdo.app) - GTD task manager built around what's next instead of fake due dates. Tasks sit in lists sorted by situation and get reviewed weekly. Free tier available.
 - [Enhanciar](https://enhanciar.in) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid plans, bring your own AI key.
 - [minulo](https://minulo.app/en/) - Hides Instagram Reels, YouTube Shorts and TikTok For You on iPhone while DMs and normal videos stay; hiding is free (Pro optional).
+- [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that transcribes video and audio files, YouTube/Vimeo links, and live voice into searchable text, with speaker split, summaries, and TXT/DOCX export. Free tier available.
 
 ## Project Management
 
