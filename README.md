@@ -1,6 +1,6 @@
 # Awesome Bootstrapped Software [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Software products built by bootstrapped founders.
+Software products built by bootstrapped founders who prioritize usability, fast support, and sane pricing.
 
 ## Contents
 
