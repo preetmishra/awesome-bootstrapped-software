@@ -80,7 +80,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [DisconfirmAI](https://disconfirmai.com/en) - AI investing research that looks for evidence against your thesis before you get confident.
 
 ## HR & People Ops
-- [CookLLM](https://cookllm.com/en/jobs/match) - An AI job matcher that emails you new roles that fit.
+- [CookLLM](https://cookllm.com/en) - An AI job matcher that emails you new roles that fit.
 
 ## Marketing
 - [JustBlogged](https://justblogged.com) - No-setup blogging platform. Start your blog in 2 minutes. Free plan available, $9/mo for Pro with custom domains and built-in SEO.
