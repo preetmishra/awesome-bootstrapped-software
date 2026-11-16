@@ -86,6 +86,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Enhanciar](https://enhanciar.in) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid plans, bring your own AI key.
 - [minulo](https://minulo.app/en/) - Hides Instagram Reels, YouTube Shorts and TikTok For You on iPhone while DMs and normal videos stay; hiding is free (Pro optional).
 - [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that transcribes video and audio files, YouTube/Vimeo links, and live voice into searchable text, with speaker split, summaries, and TXT/DOCX export. Free tier available.
+- [Yellow Tomato](https://yellowtomato.app) - Pomodoro timer for Chrome, iPhone and iPad that blocks distracting sites and apps only while you focus. Free, no account.
 
 ## Project Management
 
