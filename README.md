@@ -75,6 +75,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Pingroupie](https://pingroupie.com) - Pinterest pin scheduler where you approve every pin before it is published, with a group board directory and keyword ideas. Free plan available, Premium $9.99/mo or $79/year.
 - [day3](https://day3.app) - Newsletters and transactional email billed by emails sent, unlimited subscribers, from $1/mo. REST API and MCP server.
 - [Kicklace](https://kicklace.com) - Lifecycle email for SaaS founders: writes your welcome, onboarding and failed-payment emails from your website and sends them when customers act. Free up to 1,000 contacts, Starter $25/mo.
+- [AppScreen](https://appscreen.pro) - Free browser editor for App Store and Google Play screenshots, with iPhone, iPad and Android frames. Pro is $9 once, no subscription.
 
 ## Productivity
 
