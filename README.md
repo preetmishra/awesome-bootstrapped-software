@@ -41,6 +41,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Helploom](https://helploom.com) - Unlimited customer support at a fixed price. Live chat, help center and optionally an AI agent. Free plan available.
 - [Deacon](https://heydeacon.com) - AI support chat that answers your customers from your own docs and asks for their email when it can't. Free plan available.
 - [Pipp](https://pipp.so) - Shared inbox for small support teams. Work in it yourself with built-in AI, or connect your own agent over MCP. Free.
+- [SealReply](https://www.sealreply.com) - Live chat for small website teams, with live visitors, offline email capture and encrypted chat history. Free plan available.
 
 ## Developer Tools
 
