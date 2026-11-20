@@ -118,6 +118,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [FieldServiceScout](https://www.fieldservicescout.com) - Free vendor-neutral field-service software comparisons for trade shops (Jobber, Housecall Pro, ServiceTitan peers).
 - [Mira](https://miraforall.com) - A free-forever, private migraine and headache tracker for iPhone and iPad: log attacks, spot triggers, and export PDF and CSV reports for your doctor visits.
 - [Stopover](https://flystopover.com) - A multi-city trip planner that prices every order of your cities to find the cheapest trip.
+- [TattooTryOn](https://tattootryon.app/) - For anyone planning a tattoo: try designs on your own skin, generate new ones from a text idea, and turn finished art into a stencil for your artist.
 
 ## Contributing
 
