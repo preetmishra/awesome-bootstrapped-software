@@ -89,6 +89,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [minulo](https://minulo.app/en/) - Hides Instagram Reels, YouTube Shorts and TikTok For You on iPhone while DMs and normal videos stay; hiding is free (Pro optional).
 - [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that transcribes video and audio files, YouTube/Vimeo links, and live voice into searchable text, with speaker split, summaries, and TXT/DOCX export. Free tier available.
 - [Yellow Tomato](https://yellowtomato.app) - Pomodoro timer for Chrome, iPhone and iPad that blocks distracting sites and apps only while you focus. Free, no account.
+- [Greetigo](https://greetigo.com/employee-birthday-tracker) - Keeps a team's birthdays and work anniversaries in one list and emails the manager the day before and on the day of each, with a message ready. Free for up to 10 dates; Plus $4.99/mo.
 
 ## Project Management
 
