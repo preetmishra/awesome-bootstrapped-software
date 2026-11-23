@@ -56,6 +56,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 ## E-commerce
 
 - [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products with just Stripe and GitHub: static storefront, checkout via Stripe Payment Links, delivery via private repo invites. MIT engine, $0/month, 0% platform fee.
+- [Listvane](https://listvane.com/?ref=awesome-bootstrapped-software) - Scans an online store's public pages for what Google Merchant Center reviews flag, then lists each issue with the page and the fix.
 
 ## Finance & Accounting
 
