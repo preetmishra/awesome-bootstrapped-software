@@ -111,6 +111,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [FaceScreen](https://facescreenapp.com) - Show your face and brand on top of everything else.
 - [KeyScreen](https://keyscreenapp.com) - Show key presses on your screen.
 - [CookLLM](https://cookllm.com/en) - An AI job matcher that emails you new roles that fit.
+- [Best Latest Apps](https://bestlatestapps.com/) - 328 free browser tools for PDFs, images, text, developers and everyday calculations, plus a small studio of iOS apps. No sign-up; supported by ads.
 
 ## Other
 
