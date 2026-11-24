@@ -122,6 +122,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Mira](https://miraforall.com) - A free-forever, private migraine and headache tracker for iPhone and iPad: log attacks, spot triggers, and export PDF and CSV reports for your doctor visits.
 - [Stopover](https://flystopover.com) - A multi-city trip planner that prices every order of your cities to find the cheapest trip.
 - [TattooTryOn](https://tattootryon.app/) - For anyone planning a tattoo: try designs on your own skin, generate new ones from a text idea, and turn finished art into a stencil for your artist.
+- [Kite](https://kite.new) - Design tool your AI agents and your team share: Claude, ChatGPT, Cursor or Codex draw editable frames and components in the same file the team edits live. Free plan; Pro from $16 per editor a month.
 
 ## Contributing
 
