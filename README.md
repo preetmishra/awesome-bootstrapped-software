@@ -124,6 +124,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Mira](https://miraforall.com) - A free-forever, private migraine and headache tracker for iPhone and iPad: log attacks, spot triggers, and export PDF and CSV reports for your doctor visits.
 - [Stopover](https://flystopover.com) - A multi-city trip planner that prices every order of your cities to find the cheapest trip.
 - [TattooTryOn](https://tattootryon.app/) - For anyone planning a tattoo: try designs on your own skin, generate new ones from a text idea, and turn finished art into a stencil for your artist.
+- [StagePeek](https://stagepeek.live) - Interactive 2D seating chart and 3D concert stage-view simulator covering 201 global venues with 1x–10x camera zoom. Free guest first-seat preview with no login; Pro passes from $4.99.
 
 ## Contributing
 
