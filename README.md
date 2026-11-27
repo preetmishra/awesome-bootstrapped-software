@@ -79,6 +79,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Pingroupie](https://pingroupie.com) - Pinterest pin scheduler where you approve every pin before it is published, with a group board directory and keyword ideas. Free plan available, Premium $9.99/mo or $79/year.
 - [day3](https://day3.app) - Newsletters and transactional email billed by emails sent, unlimited subscribers, from $1/mo. REST API and MCP server.
 - [Kicklace](https://kicklace.com) - Lifecycle email for SaaS founders: writes your welcome, onboarding and failed-payment emails from your website and sends them when customers act. Free up to 1,000 contacts, Starter $25/mo.
+- [QuestionPunk](https://www.questionpunk.com) - Surveys and AI-moderated chat and voice interviews with follow-up questions, plus response reports and cross-tabs. Free plan available.
 
 ## Productivity
 
