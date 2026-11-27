@@ -35,6 +35,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 ## CRM
 
 - [Dronelist](https://dronelist.io) - Vertical CRM for commercial drone operators: pipeline, proposals with margin, and price book. Free plan; Pro $20/mo.
+- [Hexvan](https://hexvan.com) - Simple CRM for tradespeople like plumbers, electricians and roofers: customers, jobs, quotes and invoices. One flat price for the whole team, £15/mo.
 
 ## Customer Support
 
