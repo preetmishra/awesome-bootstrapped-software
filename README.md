@@ -68,6 +68,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
 - [DisconfirmAI](https://disconfirmai.com/en) - AI investing research that looks for evidence against your thesis before you get confident.
 - [ZikCards](https://zikcards.com) - Virtual Visa and Mastercard cards in USD for ad spend, SaaS and subscriptions, funded with USDT or USDC. $5 per card, no monthly fee.
+- [Kitovo](https://www.kitovo.app/receipt-generator/) - Free receipt and invoice generator for small businesses and freelancers. No signup, PDF download.
 
 ## Marketing
 
