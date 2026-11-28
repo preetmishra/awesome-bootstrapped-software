@@ -35,6 +35,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 ## CRM
 
 - [Dronelist](https://dronelist.io) - Vertical CRM for commercial drone operators: pipeline, proposals with margin, and price book. Free plan; Pro $20/mo.
+- [Hexvan](https://hexvan.com) - Simple CRM for tradespeople like plumbers, electricians and roofers: customers, jobs, quotes and invoices. One flat price for the whole team, £15/mo.
 
 ## Customer Support
 
@@ -67,6 +68,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Tapetide](https://tapetide.com) - AI-first stock research for Indian markets (NSE & BSE) with a natural-language assistant, a 326-ratio screener, financials, and FII/DII flows.
 - [DisconfirmAI](https://disconfirmai.com/en) - AI investing research that looks for evidence against your thesis before you get confident.
 - [ZikCards](https://zikcards.com) - Virtual Visa and Mastercard cards in USD for ad spend, SaaS and subscriptions, funded with USDT or USDC. $5 per card, no monthly fee.
+- [Kitovo](https://www.kitovo.app/receipt-generator/) - Free receipt and invoice generator for small businesses and freelancers. No signup, PDF download.
 - [StackCredits](https://stackcredits.com/) - Pays founders for unused cloud and AI credits without transferring the account.
 
 ## Marketing
@@ -79,6 +81,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Pingroupie](https://pingroupie.com) - Pinterest pin scheduler where you approve every pin before it is published, with a group board directory and keyword ideas. Free plan available, Premium $9.99/mo or $79/year.
 - [day3](https://day3.app) - Newsletters and transactional email billed by emails sent, unlimited subscribers, from $1/mo. REST API and MCP server.
 - [Kicklace](https://kicklace.com) - Lifecycle email for SaaS founders: writes your welcome, onboarding and failed-payment emails from your website and sends them when customers act. Free up to 1,000 contacts, Starter $25/mo.
+- [QuestionPunk](https://www.questionpunk.com) - Surveys and AI-moderated chat and voice interviews with follow-up questions, plus response reports and cross-tabs. Free plan available.
 
 ## Productivity
 
@@ -88,7 +91,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [TextSniper](https://textsniper.app/) - Extracts text from images, videos, PDFs and anything on your screen. Copy text where copying isn't allowed. Scan QR codes instantly.
 - [tingdo](https://tingdo.app) - GTD task manager built around what's next instead of fake due dates. Tasks sit in lists sorted by situation and get reviewed weekly. Free tier available.
 - [Enhanciar](https://enhanciar.in) - A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid plans, bring your own AI key.
-- [minulo](https://minulo.app/en/) - Hides Instagram Reels, YouTube Shorts and TikTok For You on iPhone while DMs and normal videos stay; hiding is free (Pro optional).
+- [minulo](https://minulo.app/en/) - Blocks Instagram Reels and YouTube Shorts on iPhone, Android and Mac. Free tier available.
 - [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that transcribes video and audio files, YouTube/Vimeo links, and live voice into searchable text, with speaker split, summaries, and TXT/DOCX export. Free tier available.
 - [Yellow Tomato](https://yellowtomato.app) - Pomodoro timer for Chrome, iPhone and iPad that blocks distracting sites and apps only while you focus. Free, no account.
 - [Greetigo](https://greetigo.com/employee-birthday-tracker) - Keeps a team's birthdays and work anniversaries in one list and emails the manager the day before and on the day of each, with a message ready. Free for up to 10 dates; Plus $4.99/mo.
@@ -124,6 +127,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Mira](https://miraforall.com) - A free-forever, private migraine and headache tracker for iPhone and iPad: log attacks, spot triggers, and export PDF and CSV reports for your doctor visits.
 - [Stopover](https://flystopover.com) - A multi-city trip planner that prices every order of your cities to find the cheapest trip.
 - [TattooTryOn](https://tattootryon.app/) - For anyone planning a tattoo: try designs on your own skin, generate new ones from a text idea, and turn finished art into a stencil for your artist.
+- [RAW: Strength Training](https://getraw.fit) - Strength training log for iPhone and Android. Logging is free with no ads; RAW PRO is an optional purchase.
 
 ## Contributing
 
