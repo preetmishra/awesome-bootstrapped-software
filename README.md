@@ -31,6 +31,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 ## Compliance
 
 - [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
+- [Enterprise Ego](https://enterpriseego.cafeboon.com) - Keeps company AI chats in your own storage for oversight, with ChatGPT Enterprise, Claude Enterprise and Microsoft 365 Copilot through the official APIs, and Gemini and Perplexity in Beta.
 
 ## CRM
 
