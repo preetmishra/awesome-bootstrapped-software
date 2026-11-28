@@ -94,6 +94,7 @@ Software products built by bootstrapped founders who prioritize usability, fast 
 - [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that transcribes video and audio files, YouTube/Vimeo links, and live voice into searchable text, with speaker split, summaries, and TXT/DOCX export. Free tier available.
 - [Yellow Tomato](https://yellowtomato.app) - Pomodoro timer for Chrome, iPhone and iPad that blocks distracting sites and apps only while you focus. Free, no account.
 - [Greetigo](https://greetigo.com/employee-birthday-tracker) - Keeps a team's birthdays and work anniversaries in one list and emails the manager the day before and on the day of each, with a message ready. Free for up to 10 dates; Plus $4.99/mo.
+- [Alter Ego](https://cloudalterego.cafeboon.com) - One memory for your AI chats in ChatGPT, Claude, Gemini and any AI chat with MCP. It logs every question automatically and keeps it as plain files in your own cloud storage.
 
 ## Project Management
 
